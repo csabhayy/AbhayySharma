@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 Pronouns [Hee/Hee](Hee/Hee)
+- 👨‍💻 Pronouns Hee/Hee
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
